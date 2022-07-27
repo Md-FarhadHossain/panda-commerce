@@ -41,3 +41,20 @@ button.search_icon {
 /* Carousel end */
 
 /* Header end */
+
+
+
+/* Categories */
+.categorie-one {
+    background: linear-gradient(130deg, #FF9C35, #FFD019);
+}
+.categorie-two {
+    background: linear-gradient(130deg, #FF136F, #FF589B);
+}
+.categorie-img {
+    width: 100px;
+}
+.categorie-three {
+    background: linear-gradient(130deg, #0d6efd, #0046af)
+}
+/* Categories end */
