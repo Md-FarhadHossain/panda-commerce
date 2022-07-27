@@ -4,7 +4,16 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-
+button.button {
+    color: #fff;
+    padding: .5rem 2rem;
+    font-size: 1.2rem;
+    border-radius: .3em;
+}
+button.button-pink {
+    background: linear-gradient(177deg, #FF589B, #FF136F);
+    border: 2px solid #ff5a9c8c;
+}
 /* Header */
 button.search_icon {
     background: no-repeat;
@@ -22,4 +31,13 @@ button.search_icon {
     height: 2rem;
     border-radius: 999pc;
 }
+/* Carousel */
+.carousel-price {
+    color: #FF136F;
+}
+.carousel-inner {
+    background-color: #FEEAE9;
+}
+/* Carousel end */
+
 /* Header end */
