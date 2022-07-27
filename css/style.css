@@ -4,15 +4,22 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-button.button {
+.button {
     color: #fff;
     padding: .5rem 2rem;
     font-size: 1.2rem;
     border-radius: .3em;
+    text-decoration: none;
 }
-button.button-pink {
+.button-pink {
     background: linear-gradient(177deg, #FF589B, #FF136F);
     border: 2px solid #ff5a9c8c;
+}
+.button-dark {
+    background: #000;
+    font-size: 1rem;
+    padding: 0.7rem 1.8rem;
+    display: block;
 }
 /* Header */
 button.search_icon {
